@@ -17,7 +17,7 @@ There is a lot to learn, but after learning the 20 or so most used commands you 
 - Learn to work remotely over SSH
 - Connect to remote computers
 	- Transfer files to/from remote computer using command line interface, e.g. `scp`, `sftp`, `rsync`, `lftp`
-	- Work on shared cluster systems with job submission systems (e.g. [Slurm](http://www.uppmax.uu.se/support/user-guides/slurm-user-guide/ on [UPPMAX](https://www.uppmax.uu.se/))
+	- Work on shared cluster systems with job submission systems (e.g. [Slurm](http://www.uppmax.uu.se/support/user-guides/slurm-user-guide/) on [UPPMAX](https://www.uppmax.uu.se/))
 
 ### Linux books:
 - [The Linux Command Line](https://nostarch.com/tlcl)
