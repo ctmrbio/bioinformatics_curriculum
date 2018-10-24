@@ -59,7 +59,7 @@ R is by far the most commonly used language/environment for any type of data ana
 There are several database systems, but the most common are some kind of relational database system (often called SQL databases). There are others, especially NoSQL-databases, that are gaining popularity (MongoDB is a NoSQL database that is seeing some use in bioinformatics applications). A bioinformatician can definitely benefit from learning the basics of SQL and a NoSQL system.
 
 ### A word on coding style
-Using a consistent coding style is important to ensure code readability (you are going to read your code much more than you write it). Python has a style document called [PEP8](https://www.python.org/dev/peps/pep-0008/) (Python Enhancement Proposal number 8). Every Python programmer should read and try their best to follow PEP8 to make it easy for other Python programmers to read and understand your code. In addition, have a look at [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) (i.e. PEP20).
+Using a consistent coding style is important to ensure code readability (you are going to read your code much more than you write it). Python has a style document called [PEP8](https://www.python.org/dev/peps/pep-0008/) (Python Enhancement Proposal number 8), which is a great starting point for a standard Python coding style. Every Python programmer should read and try their best to follow PEP8 to make it easy for other Python programmers to read and understand your code. In addition, have a look at [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) (i.e. PEP20).
 
 There are style guides for R and SQL as well. A decent style guide for R is explained in the R for Data Science book (see link below).
 
