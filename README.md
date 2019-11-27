@@ -87,6 +87,7 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
  - Published article: [ANCOM](https://www.tandfonline.com/doi/abs/10.3402/mehd.v26.27663)
  - Official tutorial: [DESeq2](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) (for RNA-seq, but applicable to metagenomics as well)
  - Official user's guide: [edgeR](https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
+ - [Build your own differential abundancetool](https://mortonjt.github.io/probable-bug-bytes/probable-bug-bytes/differential-abundance/)
 
 ### Python
 - Book: [Python for Data Anlysis](http://shop.oreilly.com/product/0636920023784.do)
