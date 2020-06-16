@@ -22,6 +22,7 @@ There is a lot to learn, but after learning the 20 or so most used commands you 
 ### Linux books:
 - [The Linux Command Line](https://nostarch.com/tlcl)
 - [Bash Pocket Reference](http://shop.oreilly.com/product/0636920010166.do)
+- [Linux, MacOs, Windows and more command line reference](https://ss64.com/) - Nothing extra
 
 ## Programming
 Knowing basic programming is essential for a bioinformatician. Programming is often used to handle input and output files, pre-process data files, create plots, create workflows that run several different tools in a specified order. A well-constructed bioinformatics data analysis is **reproducible**, meaning that any one can run the same analysis on a different computer using the same input files to produce the same output results. This is challenging in practice, but it is important to consider all scripts that are written in the course of a bioinformatics analysis project as the "log book" or "lab book" of how the analysis was actually performed. And while it can be rewarding to do a quick analysis of some output files at the command line, you should make it a habit to always include everything you do to the data in a script that you can come back to in the future when you have forgotten exactly what you did. 
