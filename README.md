@@ -121,9 +121,10 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
    - ([Newick](https://en.wikipedia.org/wiki/Newick_format))
 - Quality assessment
    - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
-- Adapter trimming and quality filtering 
-  - BBDuk (part of the BBMap suite of tools, see link below)
-  - Older, but still commonly used tools: Trimmomatic, FASTX-toolkit, TrimGalore!
+- Adapter trimming and quality filtering
+  - [fastp](https://github.com/OpenGene/fastp), the only quality trimming and filtering tool you will need, most likely.
+  - [BBDuk](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/) (part of the BBMap suite of tools, see link below)
+  - Older, but still commonly used tools: Trimmomatic, FASTX-toolkit, TrimGalore! I recommend you avoid these when writing new analyses.
 - Mapping/aligning reads (maybe also something general on sequence alignment)
   - [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
   - [BWA](http://bio-bwa.sourceforge.net/)
