@@ -175,3 +175,4 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
 - seqanswers.com
 - biostars.com
 - SciLifeLab Slack
+- [wiki for metagenomics-related terminology](http://www.metagenomics.wiki/pdf)
