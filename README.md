@@ -19,6 +19,8 @@ There is a lot to learn, but after learning the 20 or so most used commands you 
 	- Transfer files to/from remote computer using command line interface, e.g. `scp`, `sftp`, `rsync`, `lftp`
 	- Work on shared cluster systems with job submission systems (e.g. [Slurm](http://www.uppmax.uu.se/support/user-guides/slurm-user-guide/) on [UPPMAX](https://www.uppmax.uu.se/))
 
+[ExplainShell](https://explainshell.com/) does an amazing job at explaining the different components of a command line. Try it out!
+
 ### Linux books:
 - [The Linux Command Line](https://nostarch.com/tlcl)
 - [Bash Pocket Reference](http://shop.oreilly.com/product/0636920010166.do)
