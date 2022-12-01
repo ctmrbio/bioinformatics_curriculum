@@ -124,8 +124,6 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
 - [sib-swiss training collection](https://github.com/sib-swiss/training-collection)
 - [introduction to applied bioinformatics in Python](https://github.com/applied-bioinformatics/iab2)
 
-
-
 ### General sequencing stuff
 - Common file formats:
    - [FASTA](https://en.wikipedia.org/wiki/FASTA_format) / [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
