@@ -103,6 +103,7 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
 
 ### R 
 - (Online) book: [R for Data Science](http://r4ds.had.co.nz/) (If you're only going to read one book about R; this is the one!)
+- (Online) book: [Orchestrating Microbiome Analysis](https://microbiome.github.io/OMA/index.html)
 - Online course: [Coursera R-programming](https://www.coursera.org/learn/r-programming)
 - Online course: [Data Science in a Box](https://datasciencebox.org/)
 
