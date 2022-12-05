@@ -91,6 +91,7 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
  - Official tutorial: [DESeq2](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) (for RNA-seq, but applicable to metagenomics as well)
  - Official user's guide: [edgeR](https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
  - [Build your own differential abundance tool](https://mortonjt.github.io/probable-bug-bytes/probable-bug-bytes/differential-abundance/)
+- [TileStats Videos](https://www.tilestats.com/videos/)
 
 ### Python
 - Book: [Python for Data Anlysis](http://shop.oreilly.com/product/0636920023784.do)
@@ -117,6 +118,12 @@ Workflow managers are tools that help you write reliable and easy-to-use bioinfo
   - Official website: [MongoDB](https://www.mongodb.com/)
 
 ## Bioinformatics stuff
+
+### Overviewsi/course materials for 16s and Shotgun
+- [Rob's computational genomics manual](https://linsalrob.github.io/ComputationalGenomicsManual/)
+- [sib-swiss training collection](https://github.com/sib-swiss/training-collection)
+- [introduction to applied bioinformatics in Python](https://github.com/applied-bioinformatics/iab2)
+
 ### General sequencing stuff
 - Common file formats:
    - [FASTA](https://en.wikipedia.org/wiki/FASTA_format) / [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
